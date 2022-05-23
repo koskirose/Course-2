@@ -12,6 +12,7 @@ Thanks,
 GR
 
 Second part of the task
+
 Hello,
  
 Now that you have established your process, you're ready to begin your work by preparing and exploring the data. Before we dive in lets review some notes about the project:
