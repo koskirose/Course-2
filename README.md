@@ -1,4 +1,4 @@
-#Course-2
+# Course-2
 The task
 
 Hello,
@@ -37,7 +37,7 @@ Thanks,
  
 GR
 
-#Skills Used for Task 2
+# Skills Used for Course 2
 Applying Python to Data Science problems. 
 Preprocessing data (e.g., Feature Engineering, addressing missing data). 
 Using data mining tools and different classifiers to develop predictive models. 
