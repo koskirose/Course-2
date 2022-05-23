@@ -1,6 +1,5 @@
-# UT-Course2
-UT Center for Professional Educations   Course 2 Data Science with Python 
-Skill unique to Course 2
+#Course-2
+
 Applying Python to Data Science problems. 
 Preprocessing data (e.g., Feature Engineering, addressing missing data). 
 Using data mining tools and different classifiers to develop predictive models. 
