@@ -36,7 +36,8 @@ I'll be expecting a report on your experience in a few days.
 Thanks,
  
 GR
-#Skills
+
+#Skills Used for Task 2
 Applying Python to Data Science problems. 
 Preprocessing data (e.g., Feature Engineering, addressing missing data). 
 Using data mining tools and different classifiers to develop predictive models. 
